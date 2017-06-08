@@ -1,0 +1,22 @@
+{
+  "name": "kindergarden-photos",
+  "version": "1.0.0",
+  "description": "Quick and dirty scripts to download photos from KinderGarden daycare center, including metadata",
+  "main": "src/kg-download-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diMosella/KinderGarden-Photos.git"
+  },
+  "author": "diMosella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diMosella/KinderGarden-Photos/issues"
+  },
+  "homepage": "https://github.com/diMosella/KinderGarden-Photos#readme",
+  "dependencies": {
+    "node-exiftool": "^2.2.0"
+  }
+}
